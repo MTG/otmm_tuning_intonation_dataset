@@ -62,3 +62,6 @@ target/
 
 # pycharm
 .idea
+
+# mac
+.DS_Store
