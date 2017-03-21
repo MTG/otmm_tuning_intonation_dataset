@@ -1,0 +1,75 @@
+{
+    "works": [
+        {
+            "mbid": "205194f9-7b74-405b-b706-239b904f1533", 
+            "title": "A\u015fk\u0131nla S\u00fcr\u00fcnsem"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/205194f9-7b74-405b-b706-239b904f1533"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5ad212c5-56a9-4207-b542-102bc3fec2e3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be02e7df-dc17-45e4-b29f-26e12baad682", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "title": "A\u015fk\u0131nla S\u00fcr\u00fcnsem Yine A\u015fk\u0131nla Delirsem", 
+    "url": "http://musicbrainz.org/work/5ad212c5-56a9-4207-b542-102bc3fec2e3", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "mbid": "5ad212c5-56a9-4207-b542-102bc3fec2e3", 
+    "sampling_frequency": 44100, 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/205194f9-7b74-405b-b706-239b904f1533"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/5ad212c5-56a9-4207-b542-102bc3fec2e3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 202, 
+    "path": "/incoming/Turkey-makam/audio/MunirNurettinSelcuk_bootleg/askinla_surunsem_yine_askinla_delirsem.mp3", 
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/205194f9-7b74-405b-b706-239b904f1533"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/5ad212c5-56a9-4207-b542-102bc3fec2e3"
+        }
+    ], 
+    "bit_rate": 128
+}
