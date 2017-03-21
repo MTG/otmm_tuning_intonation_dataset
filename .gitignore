@@ -55,3 +55,13 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Audio
+*.mp3
+*.wav
+
+# pycharm
+.idea
+
+# mac
+.DS_Store

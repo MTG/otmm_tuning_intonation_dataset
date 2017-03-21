@@ -1,0 +1,75 @@
+{
+    "works": [
+        {
+            "mbid": "3970a4a9-1898-4f46-9645-52a4ceb6546b", 
+            "title": "Gamzedeyim Deva Bulamad\u0131m"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/3970a4a9-1898-4f46-9645-52a4ceb6546b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/cca7ba0a-9614-449d-b73e-ac761f270c63"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Gamzedeyim Deva Bulmam", 
+    "url": "http://musicbrainz.org/work/cca7ba0a-9614-449d-b73e-ac761f270c63", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "mbid": "cca7ba0a-9614-449d-b73e-ac761f270c63", 
+    "sampling_frequency": 44100, 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/3970a4a9-1898-4f46-9645-52a4ceb6546b"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/cca7ba0a-9614-449d-b73e-ac761f270c63"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "type": "performing orchestra", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }, 
+        {
+            "mbid": "c3f57620-e89e-4b63-bc00-4a100c3e91a8", 
+            "type": "vocal", 
+            "name": "Melihat G\u00fclses"
+        }
+    ], 
+    "duration": 329, 
+    "path": "/incoming/Turkey-makam/audio/kudsi_erguner_ensemble__tatyos_efendi_kulliyati/02--ussak--sarki--sofyan--gamzedeyim_deva--tatyos_efendi.mp3", 
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/3970a4a9-1898-4f46-9645-52a4ceb6546b"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/cca7ba0a-9614-449d-b73e-ac761f270c63"
+        }
+    ], 
+    "bit_rate": 160
+}

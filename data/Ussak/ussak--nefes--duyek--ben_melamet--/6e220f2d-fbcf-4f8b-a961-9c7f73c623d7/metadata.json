@@ -1,0 +1,69 @@
+{
+    "works": [
+        {
+            "mbid": "85a47997-d78d-4388-a234-c5ef4d626959", 
+            "title": "Haydar Haydar"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "nefes", 
+            "mb_attribute": "Nefes", 
+            "source": "http://musicbrainz.org/work/85a47997-d78d-4388-a234-c5ef4d626959"
+        }
+    ], 
+    "releases": [], 
+    "title": "Ben mel\u00e2met h\u0131rkas\u0131n\u0131 kendim giydim eynime", 
+    "url": "http://musicbrainz.org/recording/6e220f2d-fbcf-4f8b-a961-9c7f73c623d7", 
+    "artist_credits": [
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "mbid": "6e220f2d-fbcf-4f8b-a961-9c7f73c623d7", 
+    "sampling_frequency": 44100, 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/85a47997-d78d-4388-a234-c5ef4d626959"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "81b7cee2-03e6-44ae-b9d9-9a4e43f5bc8d", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Asl\u0131han Eruzun \u00d6zel"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer \u00d6zel"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "duration": 274, 
+    "path": "/incoming/Turkey-makam/audio/6e/6e220f2d-fbcf-4f8b-a961-9c7f73c623d7/mp3/6e220f2d-fbcf-4f8b-a961-9c7f73c623d7-mp3.mp3", 
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/85a47997-d78d-4388-a234-c5ef4d626959"
+        }
+    ], 
+    "bit_rate": 48
+}

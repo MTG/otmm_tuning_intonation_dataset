@@ -1,0 +1,70 @@
+{
+    "works": [
+        {
+            "mbid": "3a9b2664-1b4a-4bc4-ab45-403822aa0357", 
+            "title": "\u015eark\u0131lar Seni S\u00f6yler"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/3a9b2664-1b4a-4bc4-ab45-403822aa0357"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f36d6f34-fd56-4038-ba45-460df239a4b8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6260de01-299f-4da4-aa4c-ea21d0479843", 
+            "title": "Nihavend"
+        }
+    ], 
+    "title": "\u015eark\u0131lar Seni S\u00f6yler Dillerde Na\u011fme Ad\u0131n", 
+    "url": "http://musicbrainz.org/work/f36d6f34-fd56-4038-ba45-460df239a4b8", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "mbid": "f36d6f34-fd56-4038-ba45-460df239a4b8", 
+    "sampling_frequency": 44100, 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/3a9b2664-1b4a-4bc4-ab45-403822aa0357"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/f36d6f34-fd56-4038-ba45-460df239a4b8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "duration": 254, 
+    "path": "/incoming/Turkey-makam/audio/bootleg_Nihavend/sarkilar_seni_soyler_dillerde_nagme_adin.mp3", 
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3a9b2664-1b4a-4bc4-ab45-403822aa0357"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f36d6f34-fd56-4038-ba45-460df239a4b8"
+        }
+    ], 
+    "bit_rate": 128
+}
