@@ -1,0 +1,70 @@
+{
+    "works": [
+        {
+            "mbid": "30c591bf-e2a8-35f1-ae84-ad17a4bf0953", 
+            "title": "Sar\u0131 G\u00fcl\u00fcm Var Benim"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/30c591bf-e2a8-35f1-ae84-ad17a4bf0953"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/99d17fb7-9ff6-4d16-8742-4244a870cdae"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d7b2aac7-da13-42e7-ad38-bb4f851e7bfb", 
+            "title": "Odeon Y\u0131llar\u0131"
+        }
+    ], 
+    "title": "Sar\u0131 G\u00fcl\u00fcm Var Benim", 
+    "url": "http://musicbrainz.org/work/99d17fb7-9ff6-4d16-8742-4244a870cdae", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "mbid": "99d17fb7-9ff6-4d16-8742-4244a870cdae", 
+    "sampling_frequency": 44100, 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/30c591bf-e2a8-35f1-ae84-ad17a4bf0953"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/99d17fb7-9ff6-4d16-8742-4244a870cdae"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "duration": 173, 
+    "path": "/incoming/Turkey-makam/audio/MuzeyyenSenar_odeon_yillari/13_-__sari_gulum_var_benim.mp3", 
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/30c591bf-e2a8-35f1-ae84-ad17a4bf0953"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/99d17fb7-9ff6-4d16-8742-4244a870cdae"
+        }
+    ], 
+    "bit_rate": 192
+}
